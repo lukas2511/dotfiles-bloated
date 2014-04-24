@@ -106,3 +106,5 @@ set sidescroll=1
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+set guifont=Monaco:h12
+" set paste
